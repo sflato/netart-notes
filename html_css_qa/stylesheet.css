@@ -1,0 +1,32 @@
+
+#top{
+  text-decoration: none;
+  border-width: 1px;
+  padding:1px;
+  margin:1px;
+  margin-top:1px;
+}
+a{
+  color: white;
+  text-decoration: none;
+}
+h1{
+  border-style:outset;
+  border-width: 5px;
+}
+header{
+  color: white;
+}
+.box{
+  text-align: center;
+  border-width:2px;
+  border-style: groove;
+  margin:100px;
+  text-align: center;
+  margin-left: 50px;
+  margin-right: 50px;
+  -webkit-box-shadow: -5px 15px 86px 0px rgba(255,0,255,1);
+  -moz-box-shadow: -5px 15px 86px 0px rgba(255,0,255,1);
+   -box-shadow: -5px 15px 86px 0px rgba(255,0,255,1);
+}
+/*this is a comment*/
